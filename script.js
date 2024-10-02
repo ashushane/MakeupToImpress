@@ -5,7 +5,7 @@ function choice() {
         return; 
     }
 
-    productChoiceChoice = productChoice.toLowerCase().trim(); 
+    productChoice = productChoice.toLowerCase().trim(); 
 
     switch (productChoice) {
         case 'hair':
